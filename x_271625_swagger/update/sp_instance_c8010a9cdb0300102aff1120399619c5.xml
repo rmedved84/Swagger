@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">9d634d54dbfa40102aff112039961976</sp_column>
+        <sp_widget display_value="Swagger">91630dd8db3a40102aff11203996194a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-14 18:08:55</sys_created_on>
+        <sys_id>c8010a9cdb0300102aff1120399619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_update_name>sp_instance_c8010a9cdb0300102aff1120399619c5</sys_update_name>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-14 18:08:55</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8010a9cdb0300102aff1120399619c5"/>
+</record_update>

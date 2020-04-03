@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="Scripted REST API" max_length="40" name="sys_ws_definition" sizeclass="87" text_index="true" type="collection">
-        <element label="Include In SwaggerUI" max_length="40" name="x_271625_swagger_include_in_swaggerui" type="boolean"/>
-    </element>
-</database>

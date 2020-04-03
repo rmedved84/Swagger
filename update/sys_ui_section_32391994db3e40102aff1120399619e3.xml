@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Parameters" section_id="32391994db3e40102aff1120399619e3" sys_domain="global" table="sys_ws_operation" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.sys_ws_operation.x_271625_swagger_rest_resource_body_parameter.resource</element>
+            <position>0</position>
+            <sys_created_by>rmedved</sys_created_by>
+            <sys_created_on>2020-02-02 05:00:10</sys_created_on>
+            <sys_id>99691994db3e40102aff1120399619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parameters" display_value="Parameters" name="sys_ws_operation" sys_domain="global" view="Default view">32391994db3e40102aff1120399619e3</sys_ui_section>
+            <sys_updated_by>rmedved</sys_updated_by>
+            <sys_updated_on>2020-02-02 05:00:10</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Parameters</caption>
+            <header>false</header>
+            <name>sys_ws_operation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rmedved</sys_created_by>
+            <sys_created_on>2020-02-02 04:57:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32391994db3e40102aff1120399619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parameters</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+            <sys_update_name>sys_ui_section_32391994db3e40102aff1120399619e3</sys_update_name>
+            <sys_updated_by>rmedved</sys_updated_by>
+            <sys_updated_on>2020-02-02 04:57:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

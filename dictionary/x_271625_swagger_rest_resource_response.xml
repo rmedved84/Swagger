@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Rest Resource Response" max_length="40" name="x_271625_swagger_rest_resource_response" type="collection">
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Has Schema" max_length="40" name="has_schema" type="boolean"/>
+        <element label="HTTP Code" max_length="40" name="http_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resource" max_length="32" name="resource" reference="sys_ws_operation" type="reference"/>
+        <index name="index">
+            <element name="resource"/>
+        </index>
+    </element>
+</database>

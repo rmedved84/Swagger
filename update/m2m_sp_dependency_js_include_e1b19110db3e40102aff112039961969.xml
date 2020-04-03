@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_dependency_js_include">
+    <m2m_sp_dependency_js_include action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sp_dependency display_value="Swagger">f2a34194dbfa40102aff11203996191c</sp_dependency>
+        <sp_js_include display_value="https://cdn.jsdelivr.net/npm/swagger-ui-dist@3.24.3/swagger-ui-standalone-preset.js">e1a19110db3e40102aff112039961964</sp_js_include>
+        <sys_class_name>m2m_sp_dependency_js_include</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-02 04:26:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e1b19110db3e40102aff112039961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Swagger.https://cdn.jsdelivr.net/npm/swagger-ui-dist@3.24.3/swagger-ui-standalone-preset.js</sys_name>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_update_name>m2m_sp_dependency_js_include_e1b19110db3e40102aff112039961969</sys_update_name>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-02 04:26:36</sys_updated_on>
+    </m2m_sp_dependency_js_include>
+</record_update>

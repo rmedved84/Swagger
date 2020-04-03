@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_dependency_css_include">
+    <m2m_sp_dependency_css_include action="DELETE">
+        <order>100</order>
+        <sp_css_include display_value="Swagger">926585d4dbfa40102aff1120399619cf</sp_css_include>
+        <sp_dependency display_value="Swagger">f2a34194dbfa40102aff11203996191c</sp_dependency>
+        <sys_class_name>m2m_sp_dependency_css_include</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-02 03:32:44</sys_created_on>
+        <sys_id>aa5545d4dbfa40102aff1120399619df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Swagger.Swagger</sys_name>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_update_name>m2m_sp_dependency_css_include_aa5545d4dbfa40102aff1120399619df</sys_update_name>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-02 03:34:59</sys_updated_on>
+    </m2m_sp_dependency_css_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Swagger">caf081d0dbfa40102aff112039961973</application>
+        <file_path/>
+        <instance_id>41e65616db979f80439ef70fbf9619ea</instance_id>
+        <instance_name>dev65351</instance_name>
+        <name>m2m_sp_dependency_css_include_aa5545d4dbfa40102aff1120399619df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_dependency_css_include"><m2m_sp_dependency_css_include action="INSERT_OR_UPDATE"><order>100</order><sp_css_include display_value="Swagger">926585d4dbfa40102aff1120399619cf</sp_css_include><sp_dependency display_value="Swagger">f2a34194dbfa40102aff11203996191c</sp_dependency><sys_class_name>m2m_sp_dependency_css_include</sys_class_name><sys_created_by>rmedved</sys_created_by><sys_created_on>2020-02-02 03:32:44</sys_created_on><sys_id>aa5545d4dbfa40102aff1120399619df</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Swagger.Swagger</sys_name><sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package><sys_policy/><sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope><sys_update_name>m2m_sp_dependency_css_include_aa5545d4dbfa40102aff1120399619df</sys_update_name><sys_updated_by>rmedved</sys_updated_by><sys_updated_on>2020-02-02 03:34:59</sys_updated_on></m2m_sp_dependency_css_include></record_update>]]></payload>
+        <payload_hash>-941838834</payload_hash>
+        <record_name>Swagger.Swagger</record_name>
+        <reverted_from/>
+        <source>c2f081d0dbfa40102aff112039961976</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-02 03:34:59</sys_created_on>
+        <sys_id>91e58dd4dbfa40102aff112039961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17003f73d480000001</sys_recorded_at>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-02 03:34:59</sys_updated_on>
+        <type>Dependency CSS Includes</type>
+        <update_guid>1de58dd4ecfa4010cc30e7e9842b7c8f</update_guid>
+        <update_guid_history>1de58dd4ecfa4010cc30e7e9842b7c8f:-941838834,e06505d488fa4010d9b92c89e3817ef8:20689859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Swagger.Swagger">e77f2e44dbcc50102aff112039961941</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-04-03 19:56:20</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_dependency_css_include">m2m_sp_dependency_css_include</sys_db_object>
+        <sys_id>013bb01c5c8449528178bd806d849e04</sys_id>
+        <sys_metadata>aa5545d4dbfa40102aff1120399619df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Swagger.Swagger</sys_name>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_scope_delete display_value="">266b5ee8a04d45f4b841194a0c8c1a44</sys_scope_delete>
+        <sys_update_name>m2m_sp_dependency_css_include_aa5545d4dbfa40102aff1120399619df</sys_update_name>
+        <sys_update_version display_value="m2m_sp_dependency_css_include_aa5545d4dbfa40102aff1120399619df">91e58dd4dbfa40102aff112039961990</sys_update_version>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-04-03 19:56:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

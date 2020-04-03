@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_js_include">
+    <sp_js_include action="DELETE">
+        <display_name>openapi</display_name>
+        <source>local</source>
+        <sys_class_name>sp_js_include</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-14 03:40:41</sys_created_on>
+        <sys_id>493a3688db0300102aff112039961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>openapi</sys_name>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_ui_script display_value="x_271625_swagger.openapi.js">481d5558db3e40102aff112039961956</sys_ui_script>
+        <sys_update_name>sp_js_include_493a3688db0300102aff112039961919</sys_update_name>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-14 03:40:41</sys_updated_on>
+        <url/>
+    </sp_js_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Swagger">caf081d0dbfa40102aff112039961973</application>
+        <file_path/>
+        <instance_id>41e65616db979f80439ef70fbf9619ea</instance_id>
+        <instance_name>dev65351</instance_name>
+        <name>sp_js_include_493a3688db0300102aff112039961919</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_js_include"><sp_js_include action="INSERT_OR_UPDATE"><display_name>openapi</display_name><source>local</source><sys_class_name>sp_js_include</sys_class_name><sys_created_by>rmedved</sys_created_by><sys_created_on>2020-02-14 03:40:41</sys_created_on><sys_id>493a3688db0300102aff112039961919</sys_id><sys_mod_count>0</sys_mod_count><sys_name>openapi</sys_name><sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package><sys_policy/><sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope><sys_ui_script display_value="x_271625_swagger.openapi.js">481d5558db3e40102aff112039961956</sys_ui_script><sys_update_name>sp_js_include_493a3688db0300102aff112039961919</sys_update_name><sys_updated_by>rmedved</sys_updated_by><sys_updated_on>2020-02-14 03:40:41</sys_updated_on><url/></sp_js_include></record_update>]]></payload>
+        <payload_hash>1319974921</payload_hash>
+        <record_name>openapi</record_name>
+        <reverted_from/>
+        <source>c2f081d0dbfa40102aff112039961976</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-14 03:40:41</sys_created_on>
+        <sys_id>424a3688db0300102aff112039961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17041c8c6560000001</sys_recorded_at>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-14 03:40:41</sys_updated_on>
+        <type>JS Include</type>
+        <update_guid>8a4a368858030010e7d0e32ef4f8b946</update_guid>
+        <update_guid_history>8a4a368858030010e7d0e32ef4f8b946:1319974921</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="openapi">d34d751cdb0300102aff1120399619f4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-14 17:52:45</sys_created_on>
+        <sys_db_object display_value="" name="sp_js_include">sp_js_include</sys_db_object>
+        <sys_id>090fbdd3e04447a3a5460f61763ce281</sys_id>
+        <sys_metadata>493a3688db0300102aff112039961919</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>openapi</sys_name>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_scope_delete display_value="">266b5ee8a04d45f4b841194a0c8c1a44</sys_scope_delete>
+        <sys_update_name>sp_js_include_493a3688db0300102aff112039961919</sys_update_name>
+        <sys_update_version display_value="sp_js_include_493a3688db0300102aff112039961919">424a3688db0300102aff112039961947</sys_update_version>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-14 17:52:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-14 23:04:48</sys_created_on>
+        <sys_id>62b4875cdbc300102aff11203996192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_271625_swagger_rest_resource_response.x_271625_swagger.rest_resource_response_user</sys_name>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_security_acl display_value="x_271625_swagger_rest_resource_response">9eb4875cdbc300102aff112039961927</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_62b4875cdbc300102aff11203996192c</sys_update_name>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-14 23:04:48</sys_updated_on>
+        <sys_user_role display_value="x_271625_swagger.rest_resource_response_user" name="x_271625_swagger.rest_resource_response_user">5ab4875cdbc300102aff112039961907</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Swagger">caf081d0dbfa40102aff112039961973</application>
+        <file_path/>
+        <instance_id>41e65616db979f80439ef70fbf9619ea</instance_id>
+        <instance_name>dev65351</instance_name>
+        <name>sys_security_acl_role_62b4875cdbc300102aff11203996192c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rmedved</sys_created_by><sys_created_on>2020-02-14 23:04:48</sys_created_on><sys_id>62b4875cdbc300102aff11203996192c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_271625_swagger_rest_resource_response.x_271625_swagger.rest_resource_response_user</sys_name><sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package><sys_policy/><sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope><sys_security_acl display_value="x_271625_swagger_rest_resource_response">9eb4875cdbc300102aff112039961927</sys_security_acl><sys_update_name>sys_security_acl_role_62b4875cdbc300102aff11203996192c</sys_update_name><sys_updated_by>rmedved</sys_updated_by><sys_updated_on>2020-02-14 23:04:48</sys_updated_on><sys_user_role display_value="x_271625_swagger.rest_resource_response_user" name="x_271625_swagger.rest_resource_response_user">5ab4875cdbc300102aff112039961907</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1391175069</payload_hash>
+        <record_name>x_271625_swagger_rest_resource_response.x_271625_swagger.rest_resource_response_user</record_name>
+        <reverted_from/>
+        <source>c2f081d0dbfa40102aff112039961976</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-14 23:04:48</sys_created_on>
+        <sys_id>2eb4875cdbc300102aff11203996192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17045f28d660000001</sys_recorded_at>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-14 23:04:48</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>66b4875ca1c30010868c878bde67162f</update_guid>
+        <update_guid_history>66b4875ca1c30010868c878bde67162f:1391175069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_271625_swagger_rest_resource_response.x_271625_swagger.rest_resource_response_">6bce34d6db0300102aff112039961995</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rmedved</sys_created_by>
+        <sys_created_on>2020-02-20 18:27:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>165dc66641dd4000a36f7b301c900000</sys_id>
+        <sys_metadata>62b4875cdbc300102aff11203996192c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_271625_swagger_rest_resource_response.x_271625_swagger.rest_resource_response_user</sys_name>
+        <sys_package display_value="Swagger" source="x_271625_swagger">caf081d0dbfa40102aff112039961973</sys_package>
+        <sys_parent display_value="">9eb4875cdbc300102aff112039961927</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Swagger">caf081d0dbfa40102aff112039961973</sys_scope>
+        <sys_scope_delete display_value="">266b5ee8a04d45f4b841194a0c8c1a44</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_62b4875cdbc300102aff11203996192c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_62b4875cdbc300102aff11203996192c">2eb4875cdbc300102aff11203996192f</sys_update_version>
+        <sys_updated_by>rmedved</sys_updated_by>
+        <sys_updated_on>2020-02-20 18:27:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
